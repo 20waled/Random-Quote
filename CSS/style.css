@@ -1,0 +1,21 @@
+.home{
+    background-image: url(../images/862210.jpg);
+    height: 100vh;
+    object-fit: cover;
+}
+h1{
+    color: wheat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+button {
+ background-color: black;
+ color: white;
+ border-radius: 20px;
+}
+.inner button:hover{
+    background-color: seagreen;
+} 
